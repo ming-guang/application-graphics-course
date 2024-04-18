@@ -1,0 +1,14 @@
+colormaps:
+    type: Web
+    title: Converting Scalars to RGB Colormap
+    url: https://www.particleincell.com/2014/colormap/
+
+single_colormapping:
+    type: Web
+    title: "Example: Grayscale and Color in Images"
+    url: https://support.ptc.com/help/mathcad/r9.0/en/index.html#page/PTC_Mathcad_Help/example_grayscale_and_color_in_images.html
+
+colormapping_segmentation:
+    type: Article
+    title: "Grayscale Image Colorization Methods: Overview and Evaluation"
+    url: https://vcl.fer.hr/papers_pdf/Grayscale_Image_Colorization_Methods_Overview_and_Evaluation.pdf
