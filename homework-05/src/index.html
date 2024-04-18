@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Homework 05 - Video Edge</title>
+    <link rel="stylesheet" href="css/index.css" />
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>Original Video</th>
+        <th>Edge Video (Using Sobel)</th>
+      </tr>
+      <tr>
+        <td>
+          <video height="360" width="640" src="assets/video.mp4" controls=""></video>
+        </td>
+        <td>
+          <canvas height="360" width="640"></canvas>
+        </td>
+      </tr>
+    </table>
+    <script src="https://cdn.jsdelivr.net/npm/sobel@0.0.11/sobel.min.js"></script>
+    <script src="js/process.js"></script>
+  </body>
+</html>
