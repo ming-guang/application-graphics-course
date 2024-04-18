@@ -1,2 +1,0 @@
-# Application graphics course submission
-
